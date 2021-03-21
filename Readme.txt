@@ -1,4 +1,4 @@
-Regex Extractor:
+Regex Extractor: For Structured document
 	1. Using Regex to Extract desired data
 	2. Used for Structured Documents
 
@@ -9,7 +9,7 @@ DOM:
 	3. Word Groups
 	4. Word - Position, Index in Text, OCR Confidence, Text or Word itself.
 
-Form Extractor:
+Form Extractor: For Fixed format document
 	1. Uses world's Position information to extract data
 	2. Used for documents with fixed format
 	3. We can configure templates for our documents.
